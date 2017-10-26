@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="needit_table" max_length="40" name="x_58872_needit_needit_table" type="collection">
+        <element label="value1" max_length="40" name="value1" type="string"/>
+        <element label="value2" max_length="40" name="value2" type="string"/>
+    </element>
+</database>
